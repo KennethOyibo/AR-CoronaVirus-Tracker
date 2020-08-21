@@ -24,7 +24,7 @@ Unzip the file and navigate to ARAnimation folder. Double click on the "ARAnimat
 To run the project. Connect to a physical iphone (iOS version > 13.0). Any iphone 6 and above should be already running on iOS13. Then make sure that a development team is selected/added in "Signing and Capablities". You will need to sign into a apple account(This is free). Then click on Run (the play button). When application opens up on the iphone, accept the permision request.
 
 ## Deprecated
-This project is not currently maintained and as such the code might break when ran. The link to a video demo is : https://youtu.be/y2L5hMHjaqE
+This project is not currently maintained and as such the code might break when ran. The link to a video demo is : https://youtu.be/y2L5hMHjaqE . The AR aspect still works but I am working on making the corona api functional again. Stay tuned.
 
 
 
